@@ -1,0 +1,8 @@
+.techniques {
+	display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 80%;
+  padding-top: 100px;
+  font-family: 'Inter', 'Arial', sans-serif;
+}
